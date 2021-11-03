@@ -1,0 +1,37 @@
+﻿  background.cpp
+  block.cpp
+  bmp.cpp
+  boss.cpp
+  bossmissile.cpp
+  dsutil.cpp
+  enemy.cpp
+  enemymissile.cpp
+  exploding.cpp
+  gamemain.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\User\Desktop\Shooting\Win32Project1\gamemain.cpp(569,190): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gobject.cpp
+  InitDirectX.cpp
+  interface.cpp
+  interface2.cpp
+  interface3.cpp
+  item.cpp
+  main.cpp
+C:\Users\User\Desktop\Shooting\Win32Project1\gamemain.cpp(568,183): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\Shooting\Win32Project1\gamemain.cpp(568,183): warning C4244: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\User\Desktop\Shooting\Win32Project1\gamemain.cpp(568,183): warning C4244: C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\User\Desktop\Shooting\Win32Project1\main.cpp(57,39): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\User\Desktop\Shooting\Win32Project1\main.cpp(62,41): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+  mymissile.cpp
+  myship.cpp
+  myship2.cpp
+  코드를 생성하고 있습니다...
+C:\Users\User\Desktop\Shooting\Win32Project1\main.cpp(143,6): warning C4101: 'fileNameIndex' :참조되지 않은 지역 변수입니다.
+  컴파일하고 있습니다...
+  random.cpp
+  sprite.cpp
+  timer.cpp
+  코드를 생성하고 있습니다...
+C:\Users\User\Desktop\Shooting\Win32Project1\main.cpp(1652): warning C4715: 'LoadBMPandInitSurface': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\User\Desktop\Shooting\Win32Project1\sprite.cpp(109): warning C4715: 'CSprite::Drawing': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Win32Project1.vcxproj -> C:\Users\User\Desktop\Shooting\Debug\Win32Project1.exe
